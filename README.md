@@ -112,7 +112,7 @@ project/
 ---
 
 ## Автор
-Tishchenko Kirill
-Junior/Middle Data Scientist
-GitHub: https://github.com/miacller
-LinkedIn: in/kirill-tishchenko
+Tishchenko Kirill  
+Junior Data Scientist/ML engineer  
+GitHub: https://github.com/miacller  
+LinkedIn: in/kirill-tishchenko  
