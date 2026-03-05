@@ -40,11 +40,11 @@ jupyter notebook
 
 3. Последовательно выполнить ноутбуки:
 
-01_baseline_logistic_regression.ipynb
+01_bank_customer_churn_eda.ipynb
 
-02_random_forest.ipynb
+02_bank_customer_churn_random_forest.ipynb
 
-03_lightgbm.ipynb
+03_bank_customer_churn_lightgbm.ipynb
 
 ---
 
@@ -81,9 +81,9 @@ project/
 │ └─ processed_data.csv
 │ └─ Customer-Churn-Records.csv
 ├─ notebooks/
-│ ├─ 01_baseline_logistic_regression.ipynb
-│ ├─ 02_random_forest.ipynb
-│ └─ 03_lightgbm.ipynb
+│ ├─ 01_bank_customer_churn_eda.ipynb
+│ ├─ 02_bank_customer_churn_random_forest.ipynb
+│ └─ 03_bank_customer_churn_lightgbm.ipynb
 ├─ models/ - сохранённые модели и оптимальные пороги
 │ ├─ random_forest_final_model.pkl
 │ └─ lightgbm_final_model.txt
